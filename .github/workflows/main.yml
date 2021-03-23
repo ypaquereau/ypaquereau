@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: Platane/snk@master
         with:
-          github_user_name: platane
+          github_user_name: ypaquereau
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
       - uses: crazy-max/ghaction-github-pages@v2.1.3
